@@ -4,7 +4,7 @@ Machine Learning Project for Master Degree Program in Data Science and Advanced 
 
 Prediction of Newland Citizens' Income Level for Taxing
 
-Read the Project Guidelines if you want to know more about the subject.
+Read the Project Presentation for guidelines and instructions about the subject.
 
 
 Workflow
