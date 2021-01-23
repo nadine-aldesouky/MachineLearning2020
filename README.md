@@ -9,7 +9,7 @@ Read the Project Presentation for guidelines and instructions about the subject.
 
 Workflow
 
-This work was developed during the 1st semester of the Masters Degree.
+This work was developed during the 1st semester of the Masters Degree. The Train dataset was used to build the model while the Test dataset was to test it.
 
 
 Authors:
